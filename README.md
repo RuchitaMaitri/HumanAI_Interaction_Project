@@ -15,6 +15,8 @@ This has been treated as an image-classification model with 3 classes, 'Red', 'Y
 ### Android Application Development:
 To use this developed model, Teachable Machine provides Tensorflow-Lite version which can be used in Android application development. I further used a Text-To-Speech functionality within Android Studio to generate the audio output.
 
+You can download the .apk file to test it out! 
+
 ### Resources
 - https://github.com/kobbled/ITSDC-Udacity-Traffic-Light-Classifier
 - https://www.youtube.com/watch?v=jhGm4KDafKU
