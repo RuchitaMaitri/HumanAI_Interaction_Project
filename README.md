@@ -17,7 +17,7 @@ To use this developed model, Teachable Machine provides Tensorflow-Lite version 
 
 Final application can be run by simply downloading the .apk file on the android device. 
 
-You can download the .apk file to test it out! 
+You can download the Traffic_Light_Predictor.apk file to test it out! 
 
 ### Resources
 - https://github.com/kobbled/ITSDC-Udacity-Traffic-Light-Classifier
