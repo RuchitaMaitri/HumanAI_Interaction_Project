@@ -15,9 +15,8 @@ This has been treated as an image-classification model with 3 classes, 'Red', 'Y
 ### Android Application Development:
 To use this developed model, Teachable Machine provides Tensorflow-Lite version which can be used in Android application development. I further used a Text-To-Speech functionality within Android Studio to generate the audio output. I referred to the starter code in the resource section and referred to the tutorial (linked in resources) to understand how to add image capturing functionality, how to add tensorflow-lite model in the back-end. I added code (on my own) to manipulate the predicted class probabilities to display appropriate text on the app and pass on to Text-To-Speech API. 
 
-Final application can be run by simply downloading the .apk file on the android device. 
 
-You can download the Traffic_Light_Predictor.apk file to test it out! 
+You can download the Traffic_Light_Predictor.apk file on android device to test the application! 
 
 ### Resources
 - https://github.com/kobbled/ITSDC-Udacity-Traffic-Light-Classifier
